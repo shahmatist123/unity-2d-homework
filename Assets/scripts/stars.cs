@@ -19,9 +19,5 @@ public class stars : MonoBehaviour
             yield return new WaitForSeconds(5.0f);
         }
     }
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
 }
